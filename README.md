@@ -48,6 +48,5 @@
 </div>
 <br>
 <br>
-<div align="center">
-    [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=godsasu)](https://solved.ac/godsasu/)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=godsasu)](https://solved.ac/godsasu/)
 
