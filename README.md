@@ -55,8 +55,12 @@
 <br>
 
 ## Baekjoon Online Judge
-<div align="center">
-  <a href="https://solved.ac/godsasu">
-    <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=godsasu" alt="Baekjoon Profile">
-  </a>
-</div>
+<div class="badge-container">
+    <a href="https://solved.ac/godsasu">
+      <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=godsasu" alt="Baekjoon Profile"/>
+    </a>
+    <img src="http://mazandi.herokuapp.com/api?handle=godsasu&theme=warm" alt="Mazandi Profile">
+  </div>
+
+ 
+ 
