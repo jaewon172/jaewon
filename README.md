@@ -21,9 +21,6 @@
 <div align="center">
   **Link to External Websites**
   <div class="badge-container">
-    <a href="https://whgkfkd.tistory.com/">
-      <img src="https://img.shields.io/badge/Tistory-E34F26?style=flat-square&logo=tistory&logoColor=white">
-    </a>
     <a href="https://www.instagram.com/jaewon070511/">
       <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white">
     </a>
@@ -32,9 +29,9 @@
 <h3 align="center">**Contact**</h3>
 <div align="center">
   </a>
-  <a href="mailto:wawa111027@gmail.com">
+  <a href="godsasu11@gmail.com">
     <img
-      src="https://img.shields.io/badge/wawa111027@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>&nbsp
+      src="https://img.shields.io/badge/godsasu11@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>&nbsp
   </a>
 </div>
 
@@ -44,14 +41,14 @@
 <br>
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Po0411&show_icons=true&theme=synthwave">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Po0411&layout=compact&theme=synthwave">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaewon172&layout=compact&theme=synthwave">
 <br>
 <br>
 <br>
 <div align="center">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Po0411&theme=radical" />
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Po0411&theme=radical&exclude={exclude}" />
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Po0411&theme=radical" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jaewon172&theme=radical" />
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=jaewon172&theme=radical&exclude={exclude}" />
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=jaewon172&theme=radical" />
 </div>
 <br>
 <br>
