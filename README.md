@@ -20,12 +20,12 @@
     <a href="https://www.instagram.com/jaewon070511/">
       <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white">
     </a>
+  </div>
 </div>
 
 <h3 align="center">**Contact**</h3>
 <div align="center">
-  </a>
-  <a href="godsasu11@gmail.com">
+  <a href="mailto:godsasu11@gmail.com">
     <img
       src="https://img.shields.io/badge/godsasu11@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>&nbsp
   </a>
@@ -48,5 +48,11 @@
 </div>
 <br>
 <br>
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=godsasu)](https://solved.ac/godsasu/)
-
+<div align="center">
+  **Baekjoon Online Judge**
+  <div class="badge-container">
+    <a href="https://solved.ac/godsasu">
+      <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=godsasu" alt="Baekjoon Profile">
+    </a>
+  </div>
+</div>
